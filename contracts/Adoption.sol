@@ -1,5 +1,7 @@
 pragma solidity ^0.4.17;
 
+// Squirrels
+
 contract Adoption {
     address[16] public adopters;
 
